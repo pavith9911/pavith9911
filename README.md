@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavith!
 👩🏻‍💻 I'm a **Data Analyst**.  
-👩🏻‍🎓 Studied **Computer Science, Mathematics, and Physics** at the **University of Sri Jayewardenepura**, Sri Lanka.  
+👩🏻‍🎓 Studied Computer Science, Mathematics, and Physics at the University of Sri Jayewardenepura, Sri Lanka.  
 🤝 I’m looking to collaborate on **Python, SQL, Excel**, and **Data Visualization Projects** using **Power BI, Looker**, or **Tableau**.
 
 
